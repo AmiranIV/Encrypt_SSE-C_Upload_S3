@@ -5,3 +5,4 @@ for my coworkers and friends due to the usage.
 Requirements:
 Boto3
 #Don't Upload AWS credentials, preform 'aws configure'.
+Doc Link ----> https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/s3.html
